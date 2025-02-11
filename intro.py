@@ -1,0 +1,5 @@
+print("welcome to pyton programming")
+print(5+10)
+print("im a collins")
+print(5*8)
+print("5*8")
